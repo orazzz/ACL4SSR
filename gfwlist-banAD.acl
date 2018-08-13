@@ -6752,5 +6752,6 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-# iplocation.net
+# Terry added
 (^|\.)iplocation\.net$
+(^|\.)github\.com$
