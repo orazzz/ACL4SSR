@@ -7220,5 +7220,15 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-# Terry added
+### Terry added below
+#代理列表
+[proxy_list]
 (^|\.)iplocation\.net$
+
+#直连列表
+[bypass_list]
+(^|\.)iqiyi\.com$
+
+#禁止访问列表
+[outbound_block_list]
+(^|\.)xxx\.com$
