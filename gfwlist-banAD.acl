@@ -7224,6 +7224,7 @@
 #代理列表
 [proxy_list]
 (^|\.)iplocation\.net$
+(^|\.)fuckwan73\.cf$
 
 #直连列表
 [bypass_list]
