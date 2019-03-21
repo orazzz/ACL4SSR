@@ -2,7 +2,7 @@
 # 03.17
 # 2019年3月17日14:31:57
 # 转载需要注明版权和来源
-# 
+#
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 #
 # 参照lhie1的surge规则改编，致谢!! https://github.com/lhie1/Surge
@@ -467,7 +467,7 @@
 (^|\.)applovin\.com$
 (^|\.)guangzhuiyuan\.com$
 
-# Toutiao	
+# Toutiao
 (^|\.)(ad|sm|dsp|nativeapp|partner)\.toutiao\.com$
 
 # Twitter
@@ -7232,7 +7232,7 @@
 #代理列表
 [proxy_list]
 (^|\.)iplocation\.net$
-(^|\.)fuckwan73\.cf$
+(^|\.)fuckwan73\.ga$
 
 #直连列表
 [bypass_list]
