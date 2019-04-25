@@ -7232,6 +7232,7 @@
 #代理列表
 [proxy_list]
 (^|\.)iplocation\.net$
+(^|\.)ip-api\.com$
 (^|\.)fuckwan73\.ga$
 
 #直连列表
